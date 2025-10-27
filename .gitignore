@@ -10,3 +10,6 @@ DerivedDataCache/*
 # Ignore MacOS finder attribute file
 .DS_Store
 
+*.Glue/
+**/*.Glue/
+
